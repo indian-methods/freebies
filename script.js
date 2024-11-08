@@ -19,7 +19,7 @@ window.onclick = function(event) {
         modal.style.display = "none";
     }
 }
-// Inspect Mode Detection and Redirection
+/ Inspect Mode Detection and Redirection
 (function() {
     const redirectToGoogle = () => {
         window.location.href = "https://snippet.host/iniedo";
